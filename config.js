@@ -23,9 +23,9 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['.']
-global.owner = ['2348078112891']
-global.ownMain = '2348078112891'
-global.NamaOwner = 'Caesar' //gausah diganti 
+global.owner = ['2347042790579']
+global.ownMain = '2347042790579'
+global.NamaOwner = 'Hunter' //gausah diganti 
 global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𝐈𝐋𝐋𝐔𝐌𝐈𝐍𝐀𝐓𝐈-𝐕6' //ganti aj klo mau
